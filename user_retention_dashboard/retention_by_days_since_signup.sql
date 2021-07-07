@@ -21,7 +21,7 @@ users as (
         du.last_active_at,
         coalesce(s.user_id is not null, false) as trialling_user
     from ds_prod.model.dim_user du
-    left jsoin ds_prod.model.dim_country dc
+    left join ds_prod.model.dim_country dc
         on du.signup_country_code = dc.country_code
     left join subscribers s
         on du.user_id = s.user_id
