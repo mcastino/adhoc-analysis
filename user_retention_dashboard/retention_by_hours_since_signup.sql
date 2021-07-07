@@ -1,9 +1,9 @@
-create table ds_prod.prototype.active_users_by_milestone_days as (
+create or replace table ds_prod.prototype.active_users_by_milestone_hours as (
 
 with milestones as (
    select
         milestone
-   from ds_prod.prototype.milestone_days
+   from ds_prod.prototype.milestone_hours
 ),
 subscribers as (
     select
@@ -15,17 +15,14 @@ subscribers as (
 users as (
     select
         du.user_id,
-        du.signup_platform,
+        ifnull(du.signup_platform,'null') as signup_platform,
         du.signed_up_at,
-        dc.market,
+        ifnull(dc.market, 'null') as market,
         du.last_active_at,
-        case
-            when s.user_id is not null then true
-            else false
-        end as trialling_user
+        coalesce(s.user_id is not null, false) as trialling_user
     from ds_prod.model.dim_user du
     left join ds_prod.model.dim_country dc
-        on du.country_name = dc.country_name
+        on du.signup_country_code = dc.country_code
     left join subscribers s
         on du.user_id = s.user_id
         and du.signed_up_at::date = s.trial_started_at::date
@@ -34,8 +31,8 @@ users as (
 ),
 user_totals as (
     select
-        market,
-        signup_platform,
+        ifnull(market, 'null') as market,
+        ifnull(signup_platform, 'null') as signup_platform,
         trialling_user,
         count(1) as total_users
     from users
@@ -52,7 +49,7 @@ user_milestones as (
         m.milestone,
         case
             when m.milestone = -1 then 1
-            when datediff('days',signed_up_at,last_active_at) >= m.milestone then 1
+            when datediff('minutes',signed_up_at,last_active_at)/60 >= m.milestone then 1
             else null
         end as active
     from users as u

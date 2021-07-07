@@ -1,9 +1,9 @@
-create table ds_prod.prototype.active_users_by_milestone_hours as (
+create or replace table ds_prod.prototype.active_users_by_milestone_minutes as (
 
 with milestones as (
    select
         milestone
-   from ds_prod.prototype.milestone_hours
+   from ds_prod.prototype.milestone_minutes
 ),
 subscribers as (
     select
@@ -15,9 +15,9 @@ subscribers as (
 users as (
     select
         du.user_id,
-        du.signup_platform,
+        ifnull(du.signup_platform, 'null') as signup_platform,
         du.signed_up_at,
-        dc.market,
+        ifnull(dc.market, 'null') as market,
         du.last_active_at,
         case
             when s.user_id is not null then true
@@ -34,8 +34,8 @@ users as (
 ),
 user_totals as (
     select
-        market,
-        signup_platform,
+        ifnull(market,'null') as market,
+        ifnull(signup_platform, 'null') as signup_platform,
         trialling_user,
         count(1) as total_users
     from users
@@ -51,8 +51,7 @@ user_milestones as (
         u.last_active_at,
         m.milestone,
         case
-            when m.milestone = -1 then 1
-            when datediff('hours',signed_up_at,last_active_at) >= m.milestone then 1
+            when datediff('seconds',signed_up_at,last_active_at)/60 >= m.milestone then 1
             else null
         end as active
     from users as u
