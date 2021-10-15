@@ -1,0 +1,635 @@
+Month,Attribute,Total Data Points
+August 2021,locale,13173854
+August 2021,product_variant,140
+August 2021,brand,133
+August 2021,experience,404
+August 2021,current_subscription,213
+August 2021,displayName,331
+August 2021,roles,2566
+August 2021,user_journey,73
+August 2021,Experiment_AATST,38
+August 2021,Experiment_ANFAV,16
+August 2021,signup_referrer,552012
+August 2021,signup_category,46
+August 2021,Unsupported,10
+August 2021,Experiment_ABEN2,13
+August 2021,Experiment_ACTA,8
+August 2021,countryCode,1
+August 2021,[Amplitude] Cohort,90
+August 2021,Experiment_ACBRH,10
+August 2021,Experiment_ADBR3,5
+August 2021,signupSegment,16
+August 2021,Most recent browser,10
+August 2021,timezone,10
+August 2021,Experiment_ADBR2,1
+August 2021,uploads_button,2
+August 2021,Public designs,1
+August 2021,__user,1
+August 2021,Email confirmed,16334356
+August 2021,journey,1448841
+August 2021,current_subscriptions,1355713
+August 2021,is_c4ed_teacher,72034
+August 2021,is_education_user,92729
+August 2021,upsell_click_no,4307019
+August 2021,last_received_generic_email,888769
+August 2021,last_received_email_social_triggers,1000715
+August 2021,last_received_ad_doc_email,316309
+August 2021,last_received_business_doc_email,172355
+August 2021,push_engagement_bucket,4737623
+August 2021,email_engagement_bucket,6607948
+August 2021,presentation_engagement_bucket,7978945
+August 2021,samsung_preinstall,265251
+August 2021,recent_design,7
+August 2021,is_district_teacher,18
+August 2021,RECENTLY_PUBLISHED_MARKETING_CATEGORY,408757597
+July 2021,locale,149707667
+July 2021,current_subscription,894
+July 2021,displayName,1362
+July 2021,roles,119806
+July 2021,experience,1700
+July 2021,user_journey,370
+July 2021,signup_referrer,1813137
+July 2021,signup_category,183
+July 2021,product_variant,646
+July 2021,brand,589
+July 2021,Experiment_AATST,171
+July 2021,Experiment_ABEN2,84
+July 2021,Experiment_ACTA,50
+July 2021,Experiment_ANFAV,44
+July 2021,Experiment_ACBRH,23
+July 2021,signupSegment,70
+July 2021,__user,4
+July 2021,Most recent browser,37
+July 2021,timezone,37
+July 2021,countryCode,22
+July 2021,Experiment_ADBR3,12
+July 2021,Experiment_ADBR2,1
+July 2021,[Amplitude] Cohort,282
+July 2021,Unsupported,43
+July 2021,uploads_button,3
+July 2021,Experiment_ADMX2,1
+July 2021,Email confirmed,54287348
+July 2021,current_subscriptions,3900964
+July 2021,is_c4ed_teacher,153671
+July 2021,is_education_user,170017
+July 2021,last_received_ad_doc_email,1095216
+July 2021,journey,4934762
+July 2021,upsell_click_no,13406769
+July 2021,last_received_email_social_triggers,3574496
+July 2021,last_received_generic_email,3561906
+July 2021,last_received_business_doc_email,641707
+July 2021,push_engagement_bucket,16551066
+July 2021,email_engagement_bucket,21739119
+July 2021,presentation_engagement_bucket,27204168
+July 2021,samsung_preinstall,847
+July 2021,recent_design,5401245
+July 2021,is_district_teacher,118
+July 2021,survey_link,97191
+July 2021,push_token,1
+June 2021,locale,217796153
+June 2021,experience,95193646
+June 2021,current_subscription,1348
+June 2021,displayName,92997
+June 2021,roles,220897
+June 2021,product_variant,802
+June 2021,brand,724
+June 2021,signup_referrer,2115216
+June 2021,[Amplitude] Cohort,670
+June 2021,signupSegment,96
+June 2021,user_journey,494
+June 2021,signup_category,240
+June 2021,Experiment_AATST,227
+June 2021,Experiment_ACBRH,20
+June 2021,Experiment_ADBR3,8
+June 2021,Unsupported,46
+June 2021,Most recent browser,45
+June 2021,timezone,45
+June 2021,Experiment_ADMX2,1
+June 2021,Experiment_ABEN2,118
+June 2021,Experiment_ACTA,70
+June 2021,countryCode,21
+June 2021,Experiment_ANFAV,51
+June 2021,Experiment_ACEVN,2
+June 2021,__user,4
+June 2021,uploads_drop,1
+June 2021,uploads_button,4
+June 2021,Public designs,2
+June 2021,Experiment_ADBR2,1
+June 2021,journey,5450949
+June 2021,Email confirmed,57442534
+June 2021,current_subscriptions,4240519
+June 2021,upsell_click_no,17826813
+June 2021,last_received_generic_email,5324769
+June 2021,recent_design,13876214
+June 2021,last_received_email_social_triggers,3753807
+June 2021,last_received_ad_doc_email,1193956
+June 2021,last_received_business_doc_email,654759
+June 2021,email_engagement_bucket,311329243
+June 2021,push_engagement_bucket,295935363
+June 2021,presentation_engagement_bucket,680821083
+June 2021,samsung_preinstall,121
+June 2021,survey_link,1267969
+June 2021,last_received_upload_photo_email,676
+May 2021,locale,225061954
+May 2021,user_journey,647
+May 2021,current_subscription,102678
+May 2021,signup_referrer,2557607
+May 2021,displayName,993536
+May 2021,experience,855651429
+May 2021,signup_category,308
+May 2021,roles,256445
+May 2021,Unsupported,54
+May 2021,product_variant,896
+May 2021,brand,819
+May 2021,Most recent browser,44
+May 2021,timezone,44
+May 2021,Experiment_AATST,291
+May 2021,Experiment_ABEN2,147
+May 2021,Experiment_ANFAV,67
+May 2021,signupSegment,97
+May 2021,Experiment_ACBRH,33
+May 2021,Experiment_ADBR3,10
+May 2021,Experiment_ACTA,95
+May 2021,[Amplitude] Cohort,1069
+May 2021,countryCode,14
+May 2021,cohort,665148629
+May 2021,Experiment_ACEVN,1
+May 2021,Experiment_ADMX2,1
+May 2021,uploads_button,2
+May 2021,__user,3
+May 2021,Email confirmed,60084957
+May 2021,current_subscriptions,4097150
+May 2021,upsell_click_no,13692189
+May 2021,journey,5652975
+May 2021,recent_design,12130459
+May 2021,last_received_email_social_triggers,4107468
+May 2021,last_received_ad_doc_email,1521797
+May 2021,last_received_generic_email,3019870
+May 2021,last_received_business_doc_email,571099
+May 2021,last_received_upload_photo_email,991
+May 2021,presentation_engagement_bucket,48090514
+May 2021,push_engagement_bucket,753874029
+May 2021,email_engagement_bucket,395641551
+May 2021,samsung_preinstall,124
+May 2021,smart_deeplink,20468
+May 2021,images_pro_promo_code,20468
+May 2021,push_token,1
+January 2021,locale,826915897
+January 2021,anonymousId,114545476
+January 2021,userId,114197953
+January 2021,user_journey,1793
+January 2021,current_subscription,10627325
+January 2021,displayName,10625679
+January 2021,roles,10786843
+January 2021,experience,4274
+January 2021,onboarding,683
+January 2021,product_variant,1507
+January 2021,cohort,1383
+January 2021,brand,1383
+January 2021,signupSegment,194
+January 2021,signup_referrer,1795854
+January 2021,signup_category,441
+January 2021,[Amplitude] Cohort,1823
+January 2021,Unsupported,103
+January 2021,Most recent browser,92
+January 2021,timezone,92
+January 2021,uploads_button,7
+January 2021,uploads_drop,3
+January 2021,Public designs,2
+January 2021,countryCode,39
+January 2021,__user,9
+January 2021,Dispatch Group,11990095
+January 2021,journey,3776836
+January 2021,Email confirmed,42044997
+January 2021,Email validated,4804823
+January 2021,last_received_ad_doc_email,1046236
+January 2021,upsell_click_no,11290526
+January 2021,android_homex_external,5562782
+January 2021,last_received_email_social_triggers,1642453
+January 2021,current_subscriptions,3313901
+January 2021,trialing_subscriptions,3313901
+January 2021,last_received_presentation_email,928826
+January 2021,ipad_homex_external,418018
+January 2021,last_received_generic_email,3256704
+January 2021,android_editorx_external,5564962
+January 2021,Last Opened Design,1764881
+January 2021,ipad_editorx_external,486916
+January 2021,iphone_editorx_external,1724616
+January 2021,iphone_homex_external,1900657
+January 2021,last_received_business_doc_email,423640
+January 2021,last_received_upload_photo_email,7164
+January 2021,samsung_preinstall,477
+January 2021,print_partner,78
+January 2021,role,27
+January 2021,is_canva_user,376
+January 2021,push_token,2
+February 2021,locale,895390466
+February 2021,anonymousId,61405300
+February 2021,userId,109570166
+February 2021,experience,571681150
+February 2021,displayName,5268039
+February 2021,roles,1490418
+February 2021,Most recent browser,82
+February 2021,timezone,82
+February 2021,user_journey,1136
+February 2021,current_subscription,2396426
+February 2021,[Amplitude] Cohort,1748
+February 2021,product_variant,1088
+February 2021,cohort,379908923
+February 2021,brand,1191
+February 2021,signup_referrer,2254865
+February 2021,Unsupported,85
+February 2021,signup_category,426
+February 2021,signupSegment,164
+February 2021,uploads_button,3
+February 2021,Public designs,3
+February 2021,countryCode,22
+February 2021,__user,1
+February 2021,uploads_drop,1
+February 2021,Experiment_14TR2,1
+February 2021,onboarding,356
+February 2021,user_uuid,1
+February 2021,account_code,1
+February 2021,workspace_uuid,1
+February 2021,subscription_state,1
+February 2021,plan,1
+February 2021,name,1
+February 2021,Email confirmed,48290769
+February 2021,journey,7715144
+February 2021,android_homex_external,4695071
+February 2021,current_subscriptions,3216353
+February 2021,last_received_ad_doc_email,1239071
+February 2021,upsell_click_no,11979315
+February 2021,android_editorx_external,4697761
+February 2021,last_received_presentation_email,1080730
+February 2021,last_received_generic_email,3702658
+February 2021,last_received_email_social_triggers,1847164
+February 2021,last_received_business_doc_email,476271
+February 2021,email_engagement_bucket,339931728
+February 2021,last_received_upload_photo_email,1011
+February 2021,samsung_preinstall,402
+February 2021,print_partner,90
+February 2021,ccc,794
+February 2021,Print_partner,54
+February 2021,canva_creator,1
+February 2021,Canva_creator,510
+February 2021,Dispatch Group,1915348
+February 2021,Email validated,744321
+February 2021,Last Opened Design,172550
+February 2021,trialing_subscriptions,503132
+February 2021,iphone_editorx_external,11344
+February 2021,ipad_homex_external,2862
+February 2021,iphone_homex_external,12416
+February 2021,ipad_editorx_external,3338
+March 2021,locale,1103771140
+March 2021,experience,840721583
+March 2021,current_subscription,1923
+March 2021,signup_referrer,2724673
+March 2021,displayName,2974968
+March 2021,roles,181282
+March 2021,signup_category,414
+March 2021,user_journey,831
+March 2021,signupSegment,178
+March 2021,Most recent browser,76
+March 2021,timezone,76
+March 2021,uploads_button,5
+March 2021,uploads_drop,4
+March 2021,product_variant,1271
+March 2021,cohort,798038740
+March 2021,brand,1150
+March 2021,Experiment_AATST,326
+March 2021,Experiment_ABEN2,157
+March 2021,Experiment_ACTA,101
+March 2021,Experiment_ADMX2,1
+March 2021,countryCode,28
+March 2021,[Amplitude] Cohort,1733
+March 2021,Unsupported,86
+March 2021,Experiment_ANFAV,103
+March 2021,Experiment_ACBRH,33
+March 2021,__user,3
+March 2021,Experiment_ACEVN,1
+March 2021,Experiment_ADBR3,11
+March 2021,Public designs,2
+March 2021,Experiment_ADBR2,1
+March 2021,Email confirmed,56032133
+March 2021,current_subscriptions,3782338
+March 2021,journey,6348716
+March 2021,upsell_click_no,15212119
+March 2021,last_received_generic_email,1680282
+March 2021,last_received_ad_doc_email,884485
+March 2021,last_received_email_social_triggers,2332982
+March 2021,last_received_business_doc_email,307273
+March 2021,last_received_upload_photo_email,907
+March 2021,email_engagement_bucket,27387358
+March 2021,samsung_preinstall,174
+March 2021,start_receiving_email,1
+March 2021,android_homex_external,3861356
+March 2021,android_editorx_external,3863546
+March 2021,last_received_presentation_email,617386
+March 2021,test_zodiac,4
+March 2021,push_token,2
+March 2021,userId,10150550
+April 2021,locale,213218133
+April 2021,experience,823536373
+April 2021,current_subscription,45493
+April 2021,displayName,1590270
+April 2021,roles,212128
+April 2021,product_variant,995
+April 2021,cohort,781004879
+April 2021,brand,897
+April 2021,Experiment_AATST,284
+April 2021,Experiment_ABEN2,133
+April 2021,Experiment_ACTA,86
+April 2021,signup_referrer,2610412
+April 2021,signup_category,306
+April 2021,Unsupported,63
+April 2021,[Amplitude] Cohort,1443
+April 2021,Experiment_ACBRH,38
+April 2021,Experiment_ADBR3,16
+April 2021,user_journey,610
+April 2021,signupSegment,139
+April 2021,countryCode,30
+April 2021,Most recent browser,54
+April 2021,timezone,54
+April 2021,Experiment_ANFAV,69
+April 2021,uploads_button,3
+April 2021,Experiment_ADBR2,1
+April 2021,__user,3
+April 2021,Experiment_ACEVN,1
+April 2021,Experiment_14TR2,1
+April 2021,uploads_drop,3
+April 2021,current_subscriptions,4872430
+April 2021,journey,5331903
+April 2021,Email confirmed,59273537
+April 2021,last_received_email_social_triggers,3252784
+April 2021,last_received_business_doc_email,423066
+April 2021,last_received_ad_doc_email,1142737
+April 2021,last_received_generic_email,2296755
+April 2021,upsell_click_no,13700046
+April 2021,email_engagement_bucket,26011324
+April 2021,last_received_upload_photo_email,750
+April 2021,samsung_preinstall,107
+April 2021,smart_promo_code,20528
+April 2021,smart_deeplink,20528
+April 2021,smart_offer_id,10264
+April 2021,push_token,1
+December 2020,Unsupported,114
+December 2020,locale,789803904
+December 2020,user_journey,2613
+December 2020,current_subscription,11636855
+December 2020,signup_referrer,1905911
+December 2020,displayName,11617404
+December 2020,experience,4880
+December 2020,signup_category,531
+December 2020,product_variant,1804
+December 2020,cohort,1603
+December 2020,brand,1603
+December 2020,roles,11827943
+December 2020,signupSegment,232
+December 2020,onboarding,678
+December 2020,[Amplitude] Cohort,2349
+December 2020,Most recent browser,86
+December 2020,timezone,85
+December 2020,countryCode,41
+December 2020,__user,4
+December 2020,uploads_button,8
+December 2020,uploads_drop,5
+December 2020,Public designs,4
+December 2020,Email confirmed,38092885
+December 2020,Dispatch Group,11233503
+December 2020,Email validated,4642320
+December 2020,last_received_presentation_email,968882
+December 2020,journey,3251122
+December 2020,current_subscriptions,3182451
+December 2020,trialing_subscriptions,3182451
+December 2020,iphone_editorx_external,4579852
+December 2020,Last Opened Design,1647517
+December 2020,upsell_click_no,12936821
+December 2020,last_received_email_social_triggers,1872658
+December 2020,iphone_homex_external,4953809
+December 2020,last_received_generic_email,3468056
+December 2020,android_editorx_external,5629132
+December 2020,android_homex_external,5627505
+December 2020,ipad_editorx_external,972053
+December 2020,last_received_business_doc_email,373249
+December 2020,ipad_homex_external,844683
+December 2020,last_received_ad_doc_email,1063235
+December 2020,last_received_upload_photo_email,26176
+December 2020,samsung_preinstall,623
+December 2020,cn_username,19
+December 2020,cohort_username_20201218,767
+December 2020,test_attribute,3
+December 2020,test_attribute2,3
+December 2020,push_token,1
+December 2020,anonymousId,113828581
+December 2020,userId,113435590
+November 2020,locale,842102323
+November 2020,user_journey,4137
+November 2020,current_subscription,14083951
+November 2020,signup_referrer,2042004
+November 2020,displayName,13986867
+November 2020,roles,14335588
+November 2020,experience,6023
+November 2020,signup_category,620
+November 2020,product_variant,2183
+November 2020,cohort,1995
+November 2020,brand,1995
+November 2020,onboarding,851
+November 2020,signupSegment,243
+November 2020,[Amplitude] Cohort,2348
+November 2020,Most recent browser,132
+November 2020,timezone,132
+November 2020,countryCode,55
+November 2020,Unsupported,166
+November 2020,__user,8
+November 2020,uploads_button,8
+November 2020,uploads_drop,2
+November 2020,Public designs,3
+November 2020,Email confirmed,42209072
+November 2020,Dispatch Group,12222219
+November 2020,journey,4553080
+November 2020,upsell_click_no,10101359
+November 2020,Last Opened Design,2064543
+November 2020,current_subscriptions,3099818
+November 2020,Email validated,6211904
+November 2020,trialing_subscriptions,3099818
+November 2020,android_editorx_external,4410873
+November 2020,iphone_editorx_external,4401433
+November 2020,android_homex_external,4406326
+November 2020,iphone_homex_external,4679388
+November 2020,ipad_editorx_external,998218
+November 2020,last_received_email_social_triggers,1848677
+November 2020,last_received_ad_doc_email,1298778
+November 2020,last_received_generic_email,3597171
+November 2020,last_received_presentation_email,1205616
+November 2020,ipad_homex_external,876936
+November 2020,last_received_upload_photo_email,243021
+November 2020,last_received_business_doc_email,425253
+November 2020,samsung_preinstall,629
+November 2020,digital_partner,95
+November 2020,print_partner,160
+November 2020,email_engagement_bucket,2996236
+November 2020,push_token,1
+November 2020,anonymousId,114946644
+November 2020,userId,114592507
+October 2020,locale,728214335
+October 2020,experience,8054
+October 2020,product_variant,3127
+October 2020,cohort,2896
+October 2020,brand,2896
+October 2020,displayName,15923611
+October 2020,roles,16289575
+October 2020,signupSegment,288
+October 2020,Most recent browser,148
+October 2020,timezone,148
+October 2020,current_subscription,16026253
+October 2020,[Amplitude] Cohort,2599
+October 2020,onboarding,918
+October 2020,user_journey,11160
+October 2020,Unsupported,133
+October 2020,signup_category,694
+October 2020,countryCode,54
+October 2020,signup_referrer,2138422
+October 2020,uploads_button,5
+October 2020,__user,15
+October 2020,Public designs,2
+October 2020,uploads_drop,3
+October 2020,Dispatch Group,12991083
+October 2020,Email confirmed,43282092
+October 2020,journey,4940563
+October 2020,iphone_editorx_external,4189939
+October 2020,current_subscriptions,2887142
+October 2020,Email validated,5226170
+October 2020,trialing_subscriptions,2887142
+October 2020,last_received_generic_email,3332990
+October 2020,Last Opened Design,2335788
+October 2020,last_received_ad_doc_email,1309020
+October 2020,android_editorx_external,4595385
+October 2020,android_homex_external,4588826
+October 2020,iphone_homex_external,4485715
+October 2020,last_received_email_social_triggers,1887096
+October 2020,upsell_click_no,14872524
+October 2020,last_received_upload_photo_email,247889
+October 2020,last_received_presentation_email,1217452
+October 2020,ipad_homex_external,908938
+October 2020,ipad_editorx_external,1033388
+October 2020,last_received_business_doc_email,421543
+October 2020,samsung_preinstall,18322
+October 2020,digital_partner,188
+October 2020,Print_partner,133
+October 2020,Email Address,63
+October 2020,Last tier,39985978
+October 2020,print_partner,176
+October 2020,Email,140
+October 2020,email_domain,1537
+October 2020,push_token,20
+October 2020,anonymousId,118658798
+October 2020,userId,118153006
+September 2020,locale,533210134
+September 2020,user_journey,25109
+September 2020,current_subscription,13646406
+September 2020,displayName,13638600
+September 2020,experience,8542
+September 2020,product_variant,3230
+September 2020,cohort,2967
+September 2020,brand,2966
+September 2020,roles,13968814
+September 2020,signup_referrer,1738280
+September 2020,signup_category,722
+September 2020,onboarding,1030
+September 2020,Unsupported,189
+September 2020,[Amplitude] Cohort,2583
+September 2020,signupSegment,329
+September 2020,Most recent browser,142
+September 2020,timezone,142
+September 2020,countryCode,64
+September 2020,uploads_drop,5
+September 2020,__user,2
+September 2020,uploads_button,4
+September 2020,Public designs,1
+September 2020,visited sample-build,16
+September 2020,Unsupported Tutorial,1
+September 2020,Email confirmed,42362115
+September 2020,Dispatch Group,12849785
+September 2020,Last tier,43418415
+September 2020,Email validated,5075102
+September 2020,journey,5394640
+September 2020,last_received_generic_email,3603014
+September 2020,last_received_ad_doc_email,1040291
+September 2020,android_homex_external,1363525
+September 2020,Last Opened Design,2224417
+September 2020,current_subscriptions,2579757
+September 2020,trialing_subscriptions,2579757
+September 2020,android_editorx_external,1373330
+September 2020,last_received_email_social_triggers,1948213
+September 2020,iphone_homex_external,4109303
+September 2020,last_received_business_doc_email,422177
+September 2020,ipad_homex_external,902680
+September 2020,ipad_editorx_external,980991
+September 2020,iphone_editorx_external,3796280
+September 2020,samsung_preinstall,39672
+September 2020,last_received_presentation_email,1025186
+September 2020,last_received_upload_photo_email,292335
+September 2020,Email,175
+September 2020,user_display_name_092020,175
+September 2020,digital_partner,182
+September 2020,Locale,5237
+September 2020,print_partner,72
+September 2020,email_domain,3038
+September 2020,upsell_click_no,6664692
+September 2020,test,2
+September 2020,push_token,3
+September 2020,anonymousId,112749566
+September 2020,userId,111349163
+August 2020,[Amplitude] Cohort,1839
+August 2020,locale,348388839
+August 2020,current_subscription,8342994
+August 2020,displayName,8365495
+August 2020,roles,8573142
+August 2020,product_variant,2543
+August 2020,cohort,2348
+August 2020,brand,2348
+August 2020,experience,6175
+August 2020,user_journey,14901
+August 2020,signup_category,518
+August 2020,signup_referrer,1077655
+August 2020,onboarding,726
+August 2020,signupSegment,229
+August 2020,countryCode,58
+August 2020,Most recent browser,110
+August 2020,timezone,110
+August 2020,Unsupported,124
+August 2020,__user,8
+August 2020,uploads_button,6
+August 2020,uploads_drop,1
+August 2020,journey,3357643
+August 2020,Email confirmed,27789751
+August 2020,Last Opened Design,1483432
+August 2020,Email validated,3419940
+August 2020,Last tier,28390114
+August 2020,Dispatch Group,8438033
+August 2020,last_received_email_social_triggers,1504152
+August 2020,upsell_click_no,9714026
+August 2020,last_received_ad_doc_email,798907
+August 2020,last_received_generic_email,2563745
+August 2020,iphone_editorx_external,50747127
+August 2020,current_subscriptions,1731039
+August 2020,trialing_subscriptions,1731039
+August 2020,last_received_presentation_email,619475
+August 2020,android_homex_external,18483991
+August 2020,iphone_homex_external,67184306
+August 2020,last_received_upload_photo_email,256567
+August 2020,android_editorx_external,7758159
+August 2020,ipad_editorx_external,4625605
+August 2020,ipad_homex_external,3205256
+August 2020,last_received_business_doc_email,332796
+August 2020,samsung_preinstall,14060
+August 2020,third_party_email_status,41075862
+August 2020,third_party_secondary_email_status,41075862
+August 2020,email_clean_20200811,41075862
+August 2020,growing_teams_brand_id,4311871
+August 2020,fake_custom_attribute_key,13
+August 2020,braze_resync,8851891
+August 2020,push_token,4
+August 2020,anonymousId,73787561
+August 2020,userId,72803898
