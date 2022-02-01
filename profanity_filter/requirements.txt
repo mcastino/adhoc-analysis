@@ -1,0 +1,5 @@
+pandas
+numpy
+git+ssh://git@github.com/Canva/analytics@master#egg=query-utils&subdirectory=query_utils
+better_profanity
+
